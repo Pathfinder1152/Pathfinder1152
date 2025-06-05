@@ -40,7 +40,6 @@ Developed an AI-powered tool to analyze and extract insights from complex legal 
 
 - **Boxing, Fitness & Gym**
 - **Crypto & Blockchain Technology**
-- **Natural Language Processing (NLP)**
 
 ---
 
