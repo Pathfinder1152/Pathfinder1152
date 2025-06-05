@@ -58,7 +58,7 @@ areas_of_focus = {
 
 ---
 
-## 📚 Final Project
+## 📚 Featured Work
 
 **AI for Legal Document Analysis**
 - Developed an AI-powered tool to analyze and extract insights from complex legal documents, streamlining workflow for law professionals.  
