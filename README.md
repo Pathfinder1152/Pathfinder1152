@@ -72,7 +72,7 @@ areas_of_focus = {
 
 ---
 
-## 🔄 Current Focus
+## 🔄 Currently..
 
 ```python
 def current_focus():
