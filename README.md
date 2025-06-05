@@ -55,7 +55,7 @@ areas_of_expertise = {
 
 ## 📚 Final Project
 
-**AI for Legal Document Analysis**  
+**####AI for Legal Document Analysis**  
 Developed an AI-powered tool to analyze and extract insights from complex legal documents, streamlining workflow for law professionals.  
 [Project Link](https://github.com/Pathfinder1152/AI-Legal-Document-Analyzer)
 ---
