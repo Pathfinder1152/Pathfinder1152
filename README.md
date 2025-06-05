@@ -87,21 +87,31 @@ def current_focus():
 
 ## 📊 GitHub Stats
 
-![Methsara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pathfinder1152&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pathfinder1152&layout=compact&theme=radical)
+<div align="center">
+  <a href="https://github.com/Pathfinder1152">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pathfinder1152&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="Pathfinder1152's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathfinder1152&theme=algolia&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/Pathfinder1152">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pathfinder1152&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pathfinder1152&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pathfinder1152&theme=algolia&no-frame=true&column=9&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
 ## 📈 Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pathfinder1152&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pathfinder1152&theme=radical)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pathfinder1152&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%"/>
+</div>
 
 ---
 
