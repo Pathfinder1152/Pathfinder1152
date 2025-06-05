@@ -3,7 +3,7 @@
 **Aspiring Data Scientist | AI Enthusiast | Technophile**  
 `import methsara as ds_grad • from Plymouth,UK import ai_passion • while True: grow()`
 
-[Email](mailto:your.email@example.com) • [LinkedIn](https://www.linkedin.com/in/methsara-dissanayaka) • [Instagram](https://www.instagram.com/m3thaa___/)
+[Email](mailto:methsaradisanayaka@gmail.com) • [LinkedIn](https://www.linkedin.com/in/methsara-dissanayaka) • [Instagram](https://www.instagram.com/m3thaa___/)
 
 ---
 
@@ -77,8 +77,8 @@ def current_focus():
 
 ---
 
-> "The goal is to turn data into information, and information into insight."  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– Carly Fiorina
+> "Information is the oil of the 21st century, and analytics is the combustion engine."  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– Peter Sandergaard
 
 ---
 
