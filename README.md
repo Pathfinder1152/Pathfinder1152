@@ -1,7 +1,11 @@
-# Methsara Dissanayaka
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F76B15&center=true&vCenter=true&width=500&size=30&lines=Methsara+Nisaga+Dissanayaka" alt="Methsara Dissanayaka"/>
+</p>
 
-**Aspiring Data Scientist | AI Enthusiast | Technophile**  
-`import methsara as ds_grad • from Plymouth,UK import ai_passion • while True: grow()`
+<p align="center">
+  <b>Aspiring Data Scientist | AI Enthusiast | Technophile</b><br>
+  <code>import methsara as ds_grad • from Plymouth,UK import ai_passion • while True: grow()</code>
+</p>
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -55,8 +59,8 @@ areas_of_expertise = {
 
 ## 📚 Final Project
 
-**####AI for Legal Document Analysis**  
-Developed an AI-powered tool to analyze and extract insights from complex legal documents, streamlining workflow for law professionals.  
+**AI for Legal Document Analysis**
+- Developed an AI-powered tool to analyze and extract insights from complex legal documents, streamlining workflow for law professionals.  
 [Project Link](https://github.com/Pathfinder1152/AI-Legal-Document-Analyzer)
 ---
 
