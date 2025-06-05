@@ -1,7 +1,7 @@
 # Methsara Dissanayaka
 
 **Aspiring Data Scientist | AI Enthusiast | Technophile**  
-`import methsara as ds_grad • from srilanka import ai_passion • while True: grow()`
+`import methsara as ds_grad • from Plymouth,UK import ai_passion • while True: grow()`
 
 [Email](mailto:your.email@example.com) • [LinkedIn](https://www.linkedin.com/in/methsara-dissanayaka) • [Instagram](https://www.instagram.com/m3thaa___/)
 
