@@ -44,7 +44,7 @@
 
 ---
 
-## 🧠 AI & Data Science Focus Areas
+## 🧠 Focus Areas
 
 ```python
 areas_of_focus = {
