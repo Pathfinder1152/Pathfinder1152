@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -54,12 +53,11 @@ areas_of_expertise = {
 
 ---
 
-## 📚 Final Year Project
+## 📚 Final Project
 
 **AI for Legal Document Analysis**  
 Developed an AI-powered tool to analyze and extract insights from complex legal documents, streamlining workflow for law professionals.  
-[Project Link](#) <!-- Add your project link here -->
-
+[Project Link](https://github.com/Pathfinder1152/AI-Legal-Document-Analyzer)
 ---
 
 ## 🥊 Hobbies & Interests
