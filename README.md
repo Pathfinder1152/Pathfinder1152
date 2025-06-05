@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <b>Aspiring Data Scientist | AI Enthusiast | Technophile</b><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=1976D2&center=true&vCenter=true&width=800&height=30&lines=Aspiring+Data+Scientist+%7C+AI+Enthusiast+%7C+Technophile" alt="Typing SVG" /></br>
   <code>import methsara as ds_grad • from Plymouth,UK import ai_passion • while True: grow()</code>
 </p>
-
 <p align="center">
   <a href="mailto:methsaradisanayaka@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/methsara16"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
