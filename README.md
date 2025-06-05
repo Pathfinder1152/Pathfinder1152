@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Coding Cat"/>
+</p>
+
+<p align="center">
   <b>Aspiring Data Scientist | AI Enthusiast | Technophile</b><br>
   <code>import methsara as ds_grad • from Plymouth,UK import ai_passion • while True: grow()</code>
 </p>
@@ -15,7 +19,7 @@
   <a href="https://www.kaggle.com/methsaradissanayaka"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💻 Tech Stack
 
@@ -42,7 +46,7 @@
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=black" alt="CUDA"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🧠 Focus Areas
 
@@ -56,7 +60,7 @@ areas_of_focus = {
 }
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📚 Featured Work
 
@@ -70,7 +74,7 @@ areas_of_focus = {
 - **Boxing, Fitness & Gym**
 - **Crypto & Blockchain Technology**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🔄 Currently..
 
@@ -83,7 +87,7 @@ def current_focus():
     }
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -97,7 +101,7 @@ def current_focus():
   </a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -105,7 +109,7 @@ def current_focus():
   <img src="https://github-profile-trophy.vercel.app/?username=Pathfinder1152&theme=algolia&no-frame=true&column=9&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📈 Activity
 
@@ -113,11 +117,11 @@ def current_focus():
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pathfinder1152&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 > "Information is the oil of the 21st century, and analytics is the combustion engine."  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– Peter Sandergaard
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– Peter Sandergaard
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 *Always up for learning, building, and connecting!*
