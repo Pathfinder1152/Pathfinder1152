@@ -19,7 +19,7 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 </p>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
@@ -47,13 +47,12 @@
 ## 🧠 AI & Data Science Focus Areas
 
 ```python
-areas_of_expertise = {
+areas_of_focus = {
     "Machine Learning": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning"],
-    "Deep Learning": ["CNNs", "RNNs", "Transformers", "GANs", "Attention Mechanisms"],
+    "Deep Learning": ["CNNs", "RNNs", "Transformers"],
     "Data Science": ["Statistical Analysis", "Exploratory Data Analysis", "Feature Engineering"],
     "Computer Vision": ["Object Detection", "Image Segmentation", "Visual Recognition"],
-    "NLP": ["Text Classification", "Named Entity Recognition", "Sentiment Analysis"],
-    "MLOps": ["CI/CD for ML", "Model Monitoring", "Deployment Strategies"]
+    "NLP": ["Text Classification", "Named Entity Recognition", "Sentiment Analysis"]
 }
 ```
 
