@@ -66,7 +66,7 @@ areas_of_focus = {
 **AI for Legal Document Analysis**
 - Developed an AI-powered tool to analyze and extract insights from complex legal documents, streamlining workflow for law professionals.  
 [Project Link](https://github.com/Pathfinder1152/AI-Legal-Document-Analyzer)
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🥊 Hobbies & Interests
 
